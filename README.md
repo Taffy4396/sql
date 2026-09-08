@@ -6,5 +6,4 @@
 交互式可视化看板 (Tableau Public)
 https://public.tableau.com/app/profile/.23177262/viz/AISaaS/AI_SaaS
 
-预览图：![Uploading image.png…]()
-
+预览图：<img width="1628" height="2000" alt="image" src="https://github.com/user-attachments/assets/59a26e40-15eb-454b-ad6c-83436a827442" />
